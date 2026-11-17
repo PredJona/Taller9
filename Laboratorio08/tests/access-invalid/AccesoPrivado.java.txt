@@ -1,9 +1,0 @@
-package pruebas.acceso;
-
-import recetario.modelo.Receta;
-
-public class AccesoPrivado {
-    String leer(Receta receta) {
-        return receta.nombreReceta;
-    }
-}

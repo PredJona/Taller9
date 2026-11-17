@@ -1,9 +1,0 @@
-package recetario.app;
-
-import recetario.modelo.Receta;
-
-public class AccesoProtegidoSinHerencia {
-    int leer(Receta receta) {
-        return receta.porciones;
-    }
-}
