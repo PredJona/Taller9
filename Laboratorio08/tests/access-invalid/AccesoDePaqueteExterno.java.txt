@@ -1,0 +1,9 @@
+package recetario.especialidades;
+
+import recetario.modelo.Receta;
+
+public class AccesoDePaqueteExterno {
+    String leer(Receta receta) {
+        return receta.categoria;
+    }
+}
