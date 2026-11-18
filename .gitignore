@@ -1,0 +1,5 @@
+# Compilación y configuración personal del IDE.
+/out/
+*.class
+.idea/workspace.xml
+.idea/shelf/
